@@ -1,3 +1,5 @@
 # Our Frst remote repository
 
 Изменения, выполненные в VSCode
+
+Изменения, выполненные в GitHub
